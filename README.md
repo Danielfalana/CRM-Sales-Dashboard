@@ -132,9 +132,9 @@ The dashboard is divided into two pages:
 - ⭐ **Best Product:** GTX Pro  
 
 <p align="center">
-  <img src="./Dashboard.png" width="40%">
-   <img src="./Com_Dashboard.png" width="40%">
-  <img src="./Dashboard_2.png" width="40%">
+  <img src="Dashboard_Visual/Dashboard.png" width="40%">
+   <img src="Dashboard_Visual/Com_Dashboard.png" width="40%">
+  <img src="Dashboard_Visual/Dashboard_2.png" width="40%">
 </p>
 ---
 
