@@ -137,7 +137,7 @@ The dashboard is divided into two pages:
   <img src="Dashboard_Visual/Dashboard_2.png" width="40%">
 </p>
 
-#### Click here     [![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/reportEmbed?reportId=e68ab5ff-5bd6-4464-a21b-097f6623baa8&autoAuth=true&ctid=b0b44356-7ab8-48f0-a149-f853ac286112)
+#### Click here     [![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiN2UzODg0ZjQtN2I1My00MTE0LWE4OGUtMjQ2YWI1NjhiZGZmIiwidCI6IjliNzM1NzJmLTFmN2UtNGEwMy04ZTE1LTM4MzNkYjQxNmYwYyJ9)
 ---
 
 ## 🧠 Conclusion  
